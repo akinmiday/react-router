@@ -16,10 +16,9 @@ function App() {
         <ul>
           <li>
             <NavLink to="/"  >
-              {/* {({ isActive }) => {
+              {({ isActive }) => {
                 return isActive ? "Active Home" : "Home"
-              }} */}
-              Home
+              }}
             </NavLink>
           </li>
           <li>
